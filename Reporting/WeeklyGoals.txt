@@ -95,3 +95,12 @@ Kate, Matt, Nitay and Dash worked on code that trialled the PID and intersection
 Tuesday 
 Nitay, Dash and Kate worked on the maze code and managed to get Bambi going straight and turning right, but not left. THey then later worked on it with Chintan and got the turns smoother and stopped it from going right at a left hand intersection, however, it then just seemed to have a seizure when it reached a left hand turn.
 Dash and Nitay worked on integrating all the code and found it to be worse??? TBC
+
+Wednesday
+Everyone spent 9am to testing time working on Bambi and managed to make it to 80%. 3 points were removed for use of tape, neatness and having the switch unaccessible. We were told we would be in finals.
+
+Friday
+Matt and Nitay worked on fixing the points that caused us to loose points and re-printed the sensor mounts to have the sensors facing directly outwards.
+
+Tuesday and Wednesday
+Matt, Kate, Dash, Chintan and Nitay all spent Tuesday and Wednesday working on the maze code trying to get it up to 100% and on introduing the derivative to the line codeto make it smoother and quicker. We in the end made it around the course in 2:05 minutes.
